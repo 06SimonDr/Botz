@@ -1,2 +1,2 @@
 # Botz
- General Discord bot
+ General Dutch Discord bot
