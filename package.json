@@ -1,0 +1,17 @@
+{
+  "name": "botz",
+  "version": "1.1.0",
+  "description": "Botz discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.5ad83a6a65e5944ceb3a41fee2df40ba1f5b03e4",
+    "dotenv": "^10.0.0",
+    "jsdom": "^16.6.0",
+    "mongoose": "^5.12.15"
+  }
+}

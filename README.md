@@ -1,0 +1,2 @@
+# Botz
+ General Discord bot
